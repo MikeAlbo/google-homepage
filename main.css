@@ -1,0 +1,37 @@
+* {
+    text-decoration: none;
+
+    
+}
+
+#logo{
+
+}
+
+header li {
+    display: inline;
+    padding: 2em, 0em, 2em, 0em;
+    margin: 2em
+    
+    
+}
+header ul {
+    float: right;
+    padding: 2em, 0em, 2em, 0em;
+    
+}
+
+footer {
+    display: block;
+    
+}
+footer li{
+    display: inline;
+    
+}
+#footerLeft{
+    float: left;
+}
+#footerRight{
+    float: right;
+}
